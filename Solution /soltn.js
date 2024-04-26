@@ -60,5 +60,5 @@ function solution(s) {
 // Test cases
 console.log(solution(["abc", "bca", "dbe"])); // Output: [0, 2, 1]
 console.log(solution(["zzzz", "ferz", "zdsr", "fgtd"])); // Output: [0, 1, 3] or [1, 3, 0]
-console.log(solution(["gr", "sd", "rg"])); // Output: []
+console.log(solution(["gr", "sd", "rg"])); // Output: [],
 console.log(solution(["bdafg", "ceagi"])); // Output: [0, 1, 2]
